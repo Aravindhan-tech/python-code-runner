@@ -1,0 +1,38 @@
+body {
+  background: #0f172a;
+  color: white;
+  text-align: center;
+  font-family: Arial;
+}
+
+textarea {
+  width: 80%;
+  height: 200px;
+  margin: 10px;
+  font-size: 16px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #22c55e;
+  color: black;
+}
+
+pre {
+  background: black;
+  padding: 15px;
+  width: 80%;
+  margin: auto;
+  border-radius: 10px;
+  color: #22c55e;
+}
